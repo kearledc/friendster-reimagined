@@ -1,0 +1,10 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Friendster-Reimagined Server",
+  "main": "index.js",
+  "repository": "https://github.com/dreilacadin/friendster-reimagined",
+  "author": "Drei Lacadin, Earle Cruz",
+  "license": "MIT",
+  "private": false
+}
